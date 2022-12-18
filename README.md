@@ -1,3 +1,8 @@
+Studens:
+Gordon Wells 100708985
+Fatemeh Alipour Soweizi 101445536
+Yoodam Choi 101445002
+
 # Project voting system using Blockchain
 Blockchain is one of the distributed ledger technologies, in which several nodes participate, and the consensus algorithm between these nodes
 It prevents forgery and falsification of data and has the advantage of a structure in which already recorded data cannot be changed. Because of these characteristics, blockchain is widely applied to platforms where reliability is important, and it is recognized as an important technology for electronic voting among many platforms. Electronic voting is a system that provides convenience to both the person who manages the election and the voters by electricizing the entire election process. It does not guarantee the technical security or stability of the system, so it is difficult to trust voters. In order to solve these problem, this system proposes an electronic voting system that prevents tampering of votes by applying blockchain and provides voters' trust and system stability. By applying this electronic voting system to crowding funding where projects can be submitted and multiple parties can vote on the single project, we can set up a fair vote. 

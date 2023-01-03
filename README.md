@@ -1,7 +1,3 @@
-Studens:
-Gordon Wells 100708985
-Fatemeh Alipour Soweizi 101445536
-Yoodam Choi 101445002
 
 # Project voting system using Blockchain
 Blockchain is one of the distributed ledger technologies, in which several nodes participate, and the consensus algorithm between these nodes
